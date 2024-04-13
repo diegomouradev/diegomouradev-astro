@@ -1,0 +1,64 @@
+:root {
+    --accent: 136, 58, 234;
+    --accent-light: 224, 204, 250;
+    --accent-dark: 49, 10, 101;
+    --accent-gradient: linear-gradient(
+        45deg,
+        rgb(var(--accent)),
+        rgb(var(--accent-light)) 30%,
+        white 60%
+    );
+}
+
+*,
+*::before,
+*::after {
+margin: 0;
+padding: 0;
+box-sizing: inherit;
+}
+
+a,
+a:active,
+a:visited {
+text-decoration: none;
+}
+
+input,
+textarea {
+background-color: transparent;
+border: unset;
+outline: unset;
+}
+
+ul,
+li {
+list-style: none;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+@media screen and (max-width: 50em) {
+      html {
+        font-size: 30%;
+        
+     }
+}
+code {
+    font-family:
+        Menlo,
+        Monaco,
+        Lucida Console,
+        Liberation Mono,
+        DejaVu Sans Mono,
+        Bitstream Vera Sans Mono,
+        Courier New,
+        monospace;
+}

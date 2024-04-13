@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Source Code Pro',monospace;
+    src: url('public/fonts/SourceCodePro-VariableFont_wght.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Code Pro',monospace;
+    src: url('public/fonts/SourceCodePro-VariableFont_wght.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Source Code Pro',monospace;
+    src: url('public/fonts/SourceCodePro-VariableFont_wght.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Source Code Pro',monospace;
+    src: url('public/fonts/SourceCodePro-Italic-VariableFont_wght.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Code Pro',monospace;
+    src: url('public/fonts/SourceCodePro-Italic-VariableFont_wght.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Source Code Pro',monospace;
+    src: url('public/fonts/SourceCodePro-Italic-VariableFont_wght.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url('/public/fonts/Lato-Light.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url('/public/fonts/Lato-LightItalic.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url('/public/fonts/Lato-Regular.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url('/public/fonts/Lato-Italic.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url('/public/fonts/Lato-Bold.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}	
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url('/public/fonts/Lato-BoldItalic.ttf') format('ttf');
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}

@@ -5,8 +5,8 @@ import Card from '../components/Card.astro';
 
 <Layout title="diegomouraDev">
 	<main>
-	<h1>diegoMouraDev</h1>
-	<em>coming soon...my focus permitting!</em>
+	<h1 class="sourceCodePro">diegoMouraDev</h1>
+	<p class="sub-heading"><em>coming soon...</em>my focus permitting!</p>
 	</main>
 </Layout>
 
@@ -18,10 +18,16 @@ import Card from '../components/Card.astro';
 		place-content:center;
 	}
 
-	h1 {
+	h1{
+		font-family: "Source Code Pro",monospace;
+		font-weight: 300;
+		font-style: normal;
 		font-size: 10rem;
 	}
-	em {
+	em, .sub-heading {
+		font-family: "Lato",serif;
+		font-weight: 300;
+		font-style: italic;
 		font-size: 5rem;
 	}
 
